@@ -1,6 +1,4 @@
-img{
-	display: block;
-}
+
 .main{
 		width: 100%;
 		height: 100%;
@@ -9,19 +7,23 @@ img{
 		overflow: hidden;
 	}
 	.logo{
-		margin: 0 40%;
+		text-align: center;
+		position: relative;
 	}
 	div p{
 		color: white;
 		padding: 5%;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		text-align: left;
+
 	}
 	div.lside{
 		float: left;
 		margin: 0 5%;
+		position: relative;
 	}
 	div.rside{
 		float: right;
 		margin: 0 5%;
+		position: relative;
 	}
